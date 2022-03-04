@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class p1 {
     public static void main(String[] args) {
 
         int mat,fiz,kim,tr,trh,mz;
