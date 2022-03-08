@@ -4,7 +4,7 @@ public class hw3 {
         /*
         Java ile mesafeye ve şartlara göre uçak bileti fiyatı hesaplayan programı yapın. Kullanıcıdan Mesafe (KM), yaşı ve yolculuk tipi
         (Tek Yön, Gidiş-Dönüş) bilgilerini alın. Mesafe başına ücret 0,10 TL / km olarak alın. İlk olarak uçuşun toplam fiyatını hesaplayın ve
-         sonrasında ki koşullara göre müşteriye aşağıdaki indirimleri uygulayın ;
+         sonrasında ki koşullara göre müşteriye aşağıdaki indirimleri uygulayın
 
         Kullanıcıdan alınan değerler geçerli (mesafe ve yaş değerleri pozitif sayı, yolculuk tipi ise 1 veya 2) olmalıdır. Aksi takdirde kullanıcıya "Hatalı Veri Girdiniz !"
         şeklinde bir uyarı verilmelidir.
