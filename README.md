@@ -3,13 +3,13 @@
 <h3> I am learning fundamentals of java in a week!</h3>
 
 <h4 style="color:#193457"> Progress </h4>
-%60 of course is done in 4 days!<br>
+%70 of course is done in 5 days!<br>
 
 You can visit or look up my homeworks or proctises under of src file!
 <table><tr><td valign="top" width="50%">
 
 ### Practise
-<div align="center">  
+<div >  
 <a href="https://github.com/Mens1s/java101/blob/master/src/p1.java" style="color:#5489ef;">1-) Not ortalaması</a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/p2.java" style="color:#5489ef;">2-) Kdv Tutarını </a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/p3.java" style="color:#5489ef;">3-) Hipotenus bulan</a>
@@ -31,21 +31,30 @@ You can visit or look up my homeworks or proctises under of src file!
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/p19.java" style="color:#5489ef;">19-) Yıldızlar ile üçgen</a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/p20.java" style="color:#5489ef;">20-) ATM Projesi</a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/p21.java" style="color:#5489ef;">21-) EBOB EKOK</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/p22.java" style="color:#5489ef;">22-) Polindrom</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/p23.java" style="color:#5489ef;">23-) Recuresive Polindrom</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/p24.java" style="color:#5489ef;">24-) Gelişmiş Hesap Makinesi</a>
+
 </div>
 </td><td valign="top" width="50%">
 
 ### Homeworks
-<div align="center">  
+<div>  
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/hw1.java" style="color:#5489ef;">1-) Vucut kitle endeksi</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw2.java" style="color:#5489ef;">1-) Manav Kasa</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw3.java" style="color:#5489ef;">1-) Uçak fiyatı</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw4.java" style="color:#5489ef;">1-) Çin zodyağı</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw5.java" style="color:#5489ef;">1-) Artık Yıl</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw6.java" style="color:#5489ef;">1-) Max Min</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw7.java" style="color:#5489ef;">1-) Mükemmel Sayı</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw8.java" style="color:#5489ef;">1-) Ters Ucgen</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw9.java" style="color:#5489ef;">1-) 1-100 Asal sayılar</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw10.java" style="color:#5489ef;">1-) Fibonacci</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw2.java" style="color:#5489ef;">2-) Manav Kasa</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw3.java" style="color:#5489ef;">3-) Uçak fiyatı</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw4.java" style="color:#5489ef;">4-) Çin zodyağı</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw5.java" style="color:#5489ef;">5-) Artık Yıl</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw6.java" style="color:#5489ef;">6-) Max Min</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw7.java" style="color:#5489ef;">7-) Mükemmel Sayı</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw8.java" style="color:#5489ef;">8-) Ters Ucgen</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw9.java" style="color:#5489ef;">9-) 1-100 Asal sayılar</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw10.java" style="color:#5489ef;">10-) Fibonacci</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw11.java" style="color:#5489ef;">11-) Recoresive Üs Alma</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw12.java" style="color:#5489ef;">12-) Recorsive Asal </a>
+
+
+
 </div>
 
 </td></tr></table>  
