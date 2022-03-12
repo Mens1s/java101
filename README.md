@@ -50,9 +50,9 @@ You can visit or look up my homeworks or proctises under of src file!
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/hw8.java" style="color:#5489ef;">8-) Ters Ucgen</a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/hw9.java" style="color:#5489ef;">9-) 1-100 Asal sayılar</a>
 <br><a href="https://github.com/Mens1s/java101/blob/master/src/hw10.java" style="color:#5489ef;">10-) Fibonacci</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw11.java" style="color:#5489ef;">11-) Recoresive Üs Alma</a>
-<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw12.java" style="color:#5489ef;">12-) Recorsive Asal </a>
-
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw11.java" style="color:#5489ef;">11-) Recuresive Üs Alma</a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw12.java" style="color:#5489ef;">12-) Recursive Asal </a>
+<br><a href="https://github.com/Mens1s/java101/blob/master/src/hw13.java" style="color:#5489ef;">12-) Recursive division </a>
 
 
 </div>
