@@ -3,7 +3,8 @@
 <h3> I am learning fundamentals of java in a week!</h3>
 
 <h4 style="color:#193457"> Progress </h4>
-%70 of course is done in 5 days!<br>
+%100 of course is done in 7 days!<br>
+Class homeworks uploaded class directory!<br>
 
 You can visit or look up my homeworks or proctises under of src file!
 <table><tr><td valign="top" width="50%">
