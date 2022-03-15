@@ -33,17 +33,17 @@ public class p11 {
         }
         else{
             if(month==1) System.out.println("Kova");
-            if(month==2) System.out.println("Balık");
-            if(month==3) System.out.println("Koç");
-            if(month==4) System.out.println("Boğa");
-            if(month==5) System.out.println("İkizler");
-            if(month==6) System.out.println("Yengeç");
-            if(month==7) System.out.println("Aslan");
-            if(month==8) System.out.println("Başak");
-            if(month==9) System.out.println("Terazi");
-            if(month==10) System.out.println("Akrep");
-            if(month==11) System.out.println("Yay");
-            if(month==12) System.out.println("Oğlak");
+            else if(month==2) System.out.println("Balık");
+            else if(month==3) System.out.println("Koç");
+            else if(month==4) System.out.println("Boğa");
+            else if(month==5) System.out.println("İkizler");
+            else if(month==6) System.out.println("Yengeç");
+            else if(month==7) System.out.println("Aslan");
+            else if(month==8) System.out.println("Başak");
+            else if(month==9) System.out.println("Terazi");
+            else if(month==10) System.out.println("Akrep");
+            else if(month==11) System.out.println("Yay");
+            else if(month==12) System.out.println("Oğlak");
         }
     }
 }
