@@ -38,4 +38,22 @@ public class HomeworkArray {
 
         }
     }
+
+    /* HOMEWORK 3 */
+    static void transpoz(int[][] arr){
+        int[][] newArr = new int[arr[0].length][arr.length];
+        int counter = 0;
+        for(int a = 0; a < arr.length ;a++){
+            for(int b = 0;b < arr[0].length ; b++){
+                newArr[b][a] = arr[a][b];
+            }
+        }
+        for(int a = 0; a < newArr.length ;a++){
+            for(int b = 0;b < newArr[0].length ; b++){
+                System.out.print(newArr[a][b]+" ");
+            }
+            System.out.println();
+        }
+
+    }
 }
