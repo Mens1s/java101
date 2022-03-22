@@ -61,7 +61,7 @@ public class MineSweeper {
         for(int c = 0; c < a ; c++){
             for(int d = 0; d < b; d++)game[c][d] = '-';
         }
-        while(playTime<a*b) {
+        while(playTime<((a*b)-(a*b/4))) {
             System.out.print("Please enter satir : ");
             int n1 = inp.nextInt();
 
