@@ -45,7 +45,7 @@ public class MineSweeper {
     }
 
     public static void play(){
-        int playTime = 0;
+        int playTime = 0, fail = 0;
         Scanner inp = new Scanner(System.in);
 
         System.out.print("Please enter a : ");
@@ -71,7 +71,7 @@ public class MineSweeper {
                 System.out.println("please enter right numbers!");
             }
             else {
-                int fail = MineSweeper.findBombs(n1, n2, bomb, opened, game);
+                fail = MineSweeper.findBombs(n1, n2, bomb, opened, game);
                 if (fail == 1) {
                     System.out.println("PATLADIN");
                     break;
@@ -79,6 +79,9 @@ public class MineSweeper {
                 MineSweeper.drawGame(a, b, bomb, opened, game, n1, n2);
                 playTime++;
             }
+        }
+        if(fail!=1){
+            System.out.println("YOU WIN!");
         }
     }
     public static int findBombs(int n1, int n2, char[][] bomb, char[][] opened, char[][] game){
